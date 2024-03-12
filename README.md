@@ -44,7 +44,7 @@ I have chosen to duplicate the following layout from the **Twitch** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-[Link to ](https://www.loom.com/share/346e755884b345a59a00d783aa057212)
+[Link to Video ](https://www.loom.com/share/346e755884b345a59a00d783aa057212)
 
 
 GIF created with **your chosen GIF tool**
@@ -60,7 +60,7 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+
 
 ## Notes
 
