@@ -38,7 +38,8 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Twitch** app:
 
-<img src='https://designvault.io/shot/1828-0901232058/' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+[Link to Image ](https://designvault.io/shot/1828-0901232058/)
+
 
 ## Video Demo
 
@@ -59,7 +60,6 @@ GIF created with **your chosen GIF tool**
 Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
 
 It is for an app that **brief description**.
-
 
 
 ## Notes
